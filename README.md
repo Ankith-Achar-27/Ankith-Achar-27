@@ -14,4 +14,4 @@ Computer Science Engineering Student
 
 ## Profiles
 LeetCode: <link>
-LinkedIn: <link>
+LinkedIn: linkedin.com/in/ankith-h-s-27smet
