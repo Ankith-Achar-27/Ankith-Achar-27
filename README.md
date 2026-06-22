@@ -13,5 +13,5 @@ Computer Science Engineering Student
 - Spring Boot Backend Development
 
 ## Profiles
-LeetCode: <link>
-LinkedIn: linkedin.com/in/ankith-h-s-27smet
+LeetCode: <https://leetcode.com/u/ankith-achar/>
+LinkedIn: <linkedin.com/in/ankith-h-s-27smet>
