@@ -5,20 +5,20 @@ Computer Science Engineering Student at Malnad College of Engineering, Hassan.
 ## Tech Stack
 - Java
 - Data Structures & Algorithms
-- Spring Boot
+- Javascript
 - MySQL
 - Git & GitHub
 
 ## Currently Learning
 - Advanced Data Structures & Algorithms
-- Spring Boot Backend Development
+- Java Script Backend development
 - REST APIs
 
 ## Projects
 - Data Structures in Java
 - LeetCode Solutions
 - Java Exercises
-- Spring Boot Learning
+- Java Script Learning
 
 ## Profiles
 - LeetCode: https://leetcode.com/u/ankith-achar/
