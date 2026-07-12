@@ -1,25 +1,23 @@
-# Hi, I'm Ankith
+<h1 align="center">Hi 👋, I'm Ankith H S</h1>
+<h3 align="center">I'm a Computer Science Engineering student passionate about software development and problem solving. Currently focusing on Java, Data Structures & Algorithms, and Full-Stack Web Development (MERN). I'm continuously building projects and improving my skills to prepare for software engineering roles.</h3>
 
-Computer Science Engineering Student at Malnad College of Engineering, Hassan.
+- 🌱 I'm currently learning **JavaScript, React, Node.js, Express.js, MongoDB, and SQL.**
 
-## Tech Stack
-- Java
-- Data Structures & Algorithms
-- Javascript
-- MySQL
-- Git & GitHub
+- 💬Ask me about **Java, Data Structures & Algorithms, HTML, CSS, JavaScript, and Git.**
 
-## Currently Learning
-- Advanced Data Structures & Algorithms
-- Java Script Backend development
-- REST APIs
+- 📫 How to reach me: **ankith270600@gmail.com**
 
-## Projects
-- Data Structures in Java
-- LeetCode Solutions
-- Java Exercises
-- Java Script Learning
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankith-h-s-27smet/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp69tqasktt%2bkb0vy7woypg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankith-h-s-27smet/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp69tqasktt%2bkb0vy7woypg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankith-achar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankith-achar" height="30" width="40" /></a>
+</p>
 
-## Profiles
-- LeetCode: https://leetcode.com/u/ankith-achar/
-- LinkedIn: https://www.linkedin.com/in/ankith-h-s-27smet/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankith-achar-27&show_icons=true&locale=en&layout=compact" alt="ankith-achar-27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankith-achar-27&show_icons=true&locale=en" alt="ankith-achar-27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankith-achar-27&" alt="ankith-achar-27" /></p>
