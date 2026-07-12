@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankith-h-s-27smet/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp69tqasktt%2bkb0vy7woypg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankith-h-s-27smet/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp69tqasktt%2bkb0vy7woypg%3d%3d" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ankith-h-s-27smet/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp69tqasktt%2bkb0vy7woypg%3d%3d](https://www.linkedin.com/in/ankith-h-s-27smet/?skipRedirect=true)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankith-h-s-27smet/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp69tqasktt%2bkb0vy7woypg%3d%3d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankith-achar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankith-achar" height="30" width="40" /></a>
 </p>
 
