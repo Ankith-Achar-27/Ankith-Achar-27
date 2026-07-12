@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning **JavaScript, React, Node.js, Express.js, MongoDB, and SQL.**<br><br> 💬 Ask me about **Java, Data Structures & Algorithms, HTML, CSS, JavaScript, and Git.**<br>
+🌱 I'm currently learning **JavaScript, React, Node.js, Express.js and MongoDB.**<br><br> 💬 Ask me about **Java, DSA,JavaScript, Git and Web development**<br>
 
 
 ## 🌐 Socials:
