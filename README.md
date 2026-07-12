@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankith H S</h1>
+<h1 align="center">Hi 👋, I'm Ankith</h1>
 <h3 align="center">I'm a Computer Science Engineering student passionate about software development and problem solving. Currently focusing on Java, Data Structures & Algorithms, and Full-Stack Web Development (MERN). I'm continuously building projects and improving my skills to prepare for software engineering roles.</h3>
 
 - 🌱 I'm currently learning **JavaScript, React, Node.js, Express.js, MongoDB, and SQL.**
