@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:1F2937,100:374151&text=Ankith%20H%20S&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=58"/>
@@ -20,8 +19,6 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 - ☕ Building a strong foundation in **Java and Data Structures & Algorithms**
 - 🌐 Currently learning **JavaScript and Full-Stack Web Development**
 - ⚛️ Exploring **React, Node.js, Express.js and MongoDB**
-- 🗄️ Familiar with **MySQL and PostgreSQL**
-- 🔧 Comfortable working with **Git, GitHub, VS Code and IntelliJ IDEA**
 - 🛠️ Learning through hands-on projects and problem solving
 - 📚 Interested in **Backend Development and Software Engineering**
 
@@ -29,29 +26,37 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 
 ## 🛠️ Technical Skills
 
+### 💡 Core Skills
+
 <div align="center">
 
-### Programming
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,git&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c&theme=dark"/>
+</div>
 
-### Web Development
+<br>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
+### 🚀 Currently Developing
 
-### Databases
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
 
-### Tools
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+<br>
+
+### 📌 Familiar With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,github,vscode,idea&theme=dark"/>
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Focus
 
 <div align="center">
 
