@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=F0A500&lines=Java+%7C+JavaScript+%7C+Web+Development;Building+Practical+Software+Projects;Developing+Full-Stack+Web+Applications" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=F0A500&lines=Java+%7C+JavaScript+%7C+Web+Development;Building+and+Improving+Software+Projects;Learning+Full-Stack+Development+by+Building" alt="Typing animation"/>
 
 </div>
 
@@ -12,16 +12,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering student graduating in 2027**, focused on software development and building practical web applications.
+I’m a **Computer Science & Engineering student graduating in 2027**, interested in building software and understanding how applications work from the frontend to the backend.
 
-- 🎓 Pursuing **Computer Science & Engineering**
-- ☕ Build software with **Java** and apply **Data Structures & Algorithms** to problem solving
-- 💻 Develop web applications using **JavaScript, HTML and CSS**
-- ⚛️ Build with **React, Node.js, Express.js and MongoDB**
-- 🗄️ Work with **MySQL and PostgreSQL** for data management
-- 🔧 Use **Git, GitHub, VS Code and IntelliJ IDEA** in my development workflow
-- 🚀 Turn ideas into practical projects through hands-on development
-- 🎯 Targeting opportunities in **Software Development, Backend Development and Full-Stack Web Development**
+- 🎓 Currently pursuing **Computer Science & Engineering**
+- 💻 Building projects to gain practical development experience
+- 🧠 Working on my **problem-solving and programming skills**
+- 🚀 Learning through projects, experimentation, and hands-on development
+- 🎯 Looking to start my career in **Software Development / Backend Development**
 
 ---
 
@@ -61,7 +58,7 @@ I am a **Computer Science & Engineering student graduating in 2027**, focused on
 
 ### 🛠️ Karigo — Service Marketplace Platform
 
-> A full-stack service marketplace platform designed to connect customers with verified service professionals.
+> A full-stack service marketplace platform designed to connect customers with service professionals.
 
 Karigo is a modern marketplace platform inspired by services such as **Urban Company and Fiverr**. It is designed to help customers discover services, find professionals, book appointments, and share reviews through a streamlined web experience.
 
@@ -106,11 +103,9 @@ Karigo is a modern marketplace platform inspired by services such as **Urban Com
 
 <div align="center">
 
-**Open to Software Development Opportunities**
+### Open to Off-Campus & Startup Opportunities
 
-Interested in opportunities involving:
-
-`Java` · `JavaScript` · `Backend Development` · `Full-Stack Development`
+**Seeking software development internships and entry-level roles.**
 
 </div>
 
