@@ -15,13 +15,15 @@
 
 I am a **Computer Science & Engineering student** focused on building a strong foundation in software development and web technologies.
 
-- 💻 Strong foundation in **Java and programming fundamentals**
-- 🌐 Currently developing skills in **JavaScript and Full-Stack Web Development**
-- ⚛️ Learning **React, Node.js, Express.js and MongoDB**
+- 🎓 Computer Science & Engineering student
+- 💻 Focused on **Software Development and Web Technologies**
+- ☕ Building a strong foundation in **Java and Data Structures & Algorithms**
+- 🌐 Currently learning **JavaScript and Full-Stack Web Development**
+- ⚛️ Exploring **React, Node.js, Express.js and MongoDB**
 - 🗄️ Familiar with **MySQL and PostgreSQL**
 - 🔧 Comfortable working with **Git, GitHub, VS Code and IntelliJ IDEA**
-- 🧠 Practicing **Data Structures and Algorithms**
-- 🚀 Interested in **Software Development, Backend Development and Web Applications**
+- 🛠️ Learning through hands-on projects and problem solving
+- 📚 Interested in **Backend Development and Software Engineering**
 
 ---
 
@@ -73,7 +75,7 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 
 <br>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=Ankith-Achar-27&theme=dark&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&background=0D1117&sideLabels=E6EDF3&dates=8B949E"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ankith-Achar-27&theme=dark&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&background=0D1117&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,5 +96,15 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 <a href="https://github.com/Ankith-Achar-27">
 <img src="https://img.shields.io/badge/GitHub-Ankith--Achar--27-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building skills. Solving problems. Creating software.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:1F2937,100:374151"/>
 
 </div>
