@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=F0A500&lines=Java+%7C+JavaScript+%7C+Web+Development;Building+Projects+with+Modern+Web+Technologies;Learning+Full-Stack+Development+Through+Hands-On+Work" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=F0A500&lines=Java+%7C+JavaScript+%7C+Web+Development;Building+Practical+Software+Projects;Developing+Full-Stack+Web+Applications" alt="Typing animation"/>
 
 </div>
 
@@ -12,15 +12,16 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering student** focused on building a strong foundation in software development and web technologies.
+I am a **Computer Science & Engineering student graduating in 2027**, focused on software development and building practical web applications.
 
-- 🎓 Computer Science & Engineering student
-- 💻 Focused on **Software Development and Web Technologies**
-- ☕ Building a strong foundation in **Java and Data Structures & Algorithms**
-- 🌐 Currently learning **JavaScript and Full-Stack Web Development**
-- ⚛️ Exploring **React, Node.js, Express.js and MongoDB**
-- 🛠️ Learning through hands-on projects and problem solving
-- 📚 Interested in **Backend Development and Software Engineering**
+- 🎓 Pursuing **Computer Science & Engineering**
+- ☕ Build software with **Java** and apply **Data Structures & Algorithms** to problem solving
+- 💻 Develop web applications using **JavaScript, HTML and CSS**
+- ⚛️ Build with **React, Node.js, Express.js and MongoDB**
+- 🗄️ Work with **MySQL and PostgreSQL** for data management
+- 🔧 Use **Git, GitHub, VS Code and IntelliJ IDEA** in my development workflow
+- 🚀 Turn ideas into practical projects through hands-on development
+- 🎯 Targeting opportunities in **Software Development, Backend Development and Full-Stack Web Development**
 
 ---
 
@@ -36,7 +37,7 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 
 <br>
 
-### 🚀 Currently Developing
+### 🌐 Web Development
 
 <div align="center">
 
@@ -46,7 +47,7 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 
 <br>
 
-### 📌 Familiar With
+### 🗄️ Databases & Development Tools
 
 <div align="center">
 
@@ -56,17 +57,32 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 
 ---
 
-## 📚 Current Focus
+## 🚀 Featured Project
+
+### 🛠️ Karigo — Service Marketplace Platform
+
+> A full-stack service marketplace platform designed to connect customers with verified service professionals.
+
+Karigo is a modern marketplace platform inspired by services such as **Urban Company and Fiverr**. It is designed to help customers discover services, find professionals, book appointments, and share reviews through a streamlined web experience.
+
+**Tech Stack**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F0A500?style=for-the-badge&logo=javascript&logoColor=111111"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=68A063"/>
-<img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&theme=dark"/>
 
 </div>
+
+**Core Features**
+
+- 🔍 Browse and discover services
+- 👨‍🔧 Connect customers with service professionals
+- 📅 Service booking and appointment management
+- ⭐ Customer reviews and ratings
+- 🌙 Modern dark-themed interface
+- 🔐 Customer and service-provider workflows
+
+**Status:** 🟡 Active Development
 
 ---
 
@@ -81,6 +97,20 @@ I am a **Computer Science & Engineering student** focused on building a strong f
 <br>
 
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ankith-Achar-27&theme=dark&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&background=0D1117&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 💼 Career
+
+<div align="center">
+
+**Open to Software Development Opportunities**
+
+Interested in opportunities involving:
+
+`Java` · `JavaScript` · `Backend Development` · `Full-Stack Development`
 
 </div>
 
