@@ -92,6 +92,9 @@ Karigo is a modern marketplace platform inspired by services such as **Urban Com
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankith-Achar-27&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=F0A500&text_color=E6EDF3&bg_color=0D1117"/>
 
 <br>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
 
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ankith-Achar-27&theme=dark&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&background=0D1117&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak"/>
 
